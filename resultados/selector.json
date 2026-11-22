@@ -1,0 +1,50 @@
+{
+  "configuracion": {
+    "familia": "CART",
+    "rasgos": "curso",
+    "max_depth": 1,
+    "min_samples_leaf": 15
+  },
+  "numericas": [
+    "n",
+    "mean_pairwise_dist",
+    "std_coords",
+    "mean_centroid_dist",
+    "mean_nn_dist"
+  ],
+  "categorias": [
+    "uniform",
+    "clustered",
+    "border"
+  ],
+  "clases": [
+    "2opt_hill_climbing",
+    "mst_2opt",
+    "sa_2opt"
+  ],
+  "izq": [
+    1,
+    -1,
+    -1
+  ],
+  "der": [
+    2,
+    -1,
+    -1
+  ],
+  "atributo": [
+    0,
+    -2,
+    -2
+  ],
+  "umbral": [
+    25.0,
+    -2.0,
+    -2.0
+  ],
+  "clase_nodo": [
+    0,
+    0,
+    0
+  ]
+}

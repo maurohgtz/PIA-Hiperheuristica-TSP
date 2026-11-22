@@ -1,0 +1,10 @@
+{
+  "instancias": 500,
+  "rutas_verificadas": 1500,
+  "exactos_n5": 57,
+  "aciertos_exactos_n5": {
+    "2opt_hill_climbing": 57,
+    "sa_2opt": 57,
+    "mst_2opt": 56
+  }
+}

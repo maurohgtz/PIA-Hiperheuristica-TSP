@@ -1,0 +1,100 @@
+{
+  "configuracion": {
+    "familia": "CART",
+    "objetivo": "distancia",
+    "max_depth": 4,
+    "min_samples_leaf": 20
+  },
+  "numericas": [
+    "n",
+    "mean_pairwise_dist",
+    "std_coords",
+    "mean_centroid_dist",
+    "mean_nn_dist"
+  ],
+  "categorias": [
+    "uniform",
+    "clustered",
+    "border"
+  ],
+  "clases": [
+    "2opt_hill_climbing",
+    "sa_2opt",
+    "mst_2opt"
+  ],
+  "izq": [
+    1,
+    2,
+    3,
+    4,
+    -1,
+    -1,
+    -1,
+    -1,
+    9,
+    -1,
+    11,
+    -1,
+    -1
+  ],
+  "der": [
+    8,
+    7,
+    6,
+    5,
+    -1,
+    -1,
+    -1,
+    -1,
+    10,
+    -1,
+    12,
+    -1,
+    -1
+  ],
+  "atributo": [
+    0,
+    0,
+    0,
+    0,
+    -2,
+    -2,
+    -2,
+    -2,
+    1,
+    -2,
+    0,
+    -2,
+    -2
+  ],
+  "umbral": [
+    70.0,
+    50.0,
+    35.0,
+    25.0,
+    -2.0,
+    -2.0,
+    -2.0,
+    -2.0,
+    0.5070226192474365,
+    -2.0,
+    90.0,
+    -2.0,
+    -2.0
+  ],
+  "clase_nodo": [
+    0,
+    0,
+    0,
+    2,
+    1,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

@@ -1,0 +1,4 @@
+real_predicho,2opt_hill_climbing,sa_2opt,mst_2opt
+2opt_hill_climbing,109,0,0
+sa_2opt,15,0,0
+mst_2opt,25,0,0

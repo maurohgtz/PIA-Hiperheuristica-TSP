@@ -1,0 +1,4 @@
+algoritmo,train,test,total,porcentaje_total,victorias_unicas
+2opt_hill_climbing,256,109,365,73.0,138
+sa_2opt,26,15,41,8.2,26
+mst_2opt,69,25,94,18.8,94

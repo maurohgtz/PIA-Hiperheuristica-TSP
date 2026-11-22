@@ -1,0 +1,38 @@
+{
+  "seleccion": {
+    "familia": "CART",
+    "rasgos": "curso",
+    "max_depth": 1,
+    "min_samples_leaf": 15
+  },
+  "semilla_cv": 20261122,
+  "modelo_base": "2opt_hill_climbing",
+  "instancias_train": 351,
+  "instancias_test": 149,
+  "empates_total": 242,
+  "empates_test": 75,
+  "modelo": {
+    "aciertos": 109,
+    "accuracy": 0.7315436241610739,
+    "regret_medio": 0.028395008825852348,
+    "regret_mediano": 0.0,
+    "regret_maximo": 1.53406947961,
+    "regret_cero": 109
+  },
+  "baseline": {
+    "aciertos": 109,
+    "accuracy": 0.7315436241610739,
+    "regret_medio": 0.028395008825852348,
+    "regret_mediano": 0.0,
+    "regret_maximo": 1.53406947961,
+    "regret_cero": 109
+  },
+  "distancia": {
+    "aciertos": 58,
+    "accuracy": 0.38926174496644295,
+    "regret_medio": 0.023460792835697988,
+    "regret_mediano": 0.0,
+    "regret_maximo": 1.53406947961,
+    "regret_cero": 115
+  }
+}
